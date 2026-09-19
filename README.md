@@ -35,12 +35,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img-Screenshot.jpg)
-
-
-
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./img-Screenshot.jpg) 
 
 ### Links
 
@@ -244,7 +239,7 @@ as a beginner ,most especially using css concepts
 -  resource 1. Claude  - This helped me during debugging
 and i would like to use it in the future.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+
 
 ### AI Collaboration
 
