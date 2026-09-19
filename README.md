@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Bisaac-coder/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL ](https://github.com/Bisaac-coder/blog-preview-card-main)
+- Live Site URL: [ live site ](https://bisaac-coder.github.io/blog-preview-card-main/)
 
 ## My process
 
